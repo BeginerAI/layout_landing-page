@@ -1,0 +1,2 @@
+var e=document.documentElement,t=document.querySelector(".theme-switcher"),s=document.querySelector(".menu");t.addEventListener("click",function(){e.classList.contains("page--theme--dark")?(s.classList.remove("page--theme--dark"),e.classList.remove("page--theme--dark"),t.classList.remove("theme-switcher--theme--dark")):(e.classList.add("page--theme--dark"),t.classList.add("theme-switcher--theme--dark"),s.classList.add("page--theme--dark"))});
+//# sourceMappingURL=index.ce044e33.js.map
